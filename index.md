@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/zine-example.png" style="float:right;width:200px;" alt="Example Zine cover">
+<img src="images/zine-example.png" style="float:right;width:300px;" alt="Example Zine cover">
 
 # Zines 101
 
