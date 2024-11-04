@@ -12,21 +12,21 @@ nav_order: 1
 - Introductory presentation: 15 min
 - Hands-on activities: 65 min
 
-## Why TOOL NAME HERE? 
+## What is a Zine & Why Make One? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Zines are self-published works with a limited print run, typically created to share thoughts, feelings, creativity, experiences, and knowledge rather than for monetary profit. Zines are part of a DIY culture that often includes people from marginalized communities or those who lack access to mainstream publishing options.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages.The content of a zine is limited only by the creator's imagination. Some examples of what can be included in a zine include:
+- Sketches, drawings, and mini-comics
+- Recipes with whimsical illustrations
+- Words mixed with images and textures
+- Poetry
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+## A Short History of Zines
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+The history of the zine can be traced back to the fanzines created by science fiction enthusiasts in the early twentieth century. These fanzines served as a forum for dialogue free from corporate editors or publishers. The same DIY ethos drew punks in the late twentieth century to embrace fanzines as a complement to their music and a means to challenge mainstream ideologies. In the 1980s and 1990s, zines became central to movements like Queercore and Riot Grrrl, which used zines to subvert dominant and patriarchal ideologies by sharing lived experiences. Despite corporate appropriation, zine-making remains a cornerstone for marginalized voices to disseminate information and publish creative work.
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
