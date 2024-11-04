@@ -1,4 +1,4 @@
-# Zines
+# Zines 101
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/zines/
