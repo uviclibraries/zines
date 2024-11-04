@@ -4,13 +4,13 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/zine-example.png" style="float:right;width:200px;" alt="Example Zine cover">
 
-# Zines
+# Zines 101
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 65 min
 
 ## Why TOOL NAME HERE? 
 
