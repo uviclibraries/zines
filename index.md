@@ -16,7 +16,9 @@ nav_order: 1
 
 Zines are self-published works with a limited print run, typically created to share thoughts, feelings, creativity, experiences, and knowledge rather than for monetary profit. Zines are part of a DIY culture that often includes people from marginalized communities or those who lack access to mainstream publishing options.
 
-While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages.The content of a zine is limited only by the creator's imagination. Some examples of what can be included in a zine include:
+While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages. The content of a zine is limited only by the creator's imagination. While historically all Zines were handmade, nowadays Zine creators can choose to use digital tools like Canva, or make their zines by hand with physical media and tools.
+
+Some examples of what can be included in a zine include:
 - Sketches, drawings, and mini-comics
 - Recipes with whimsical illustrations
 - Words mixed with images and textures
