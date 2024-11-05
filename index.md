@@ -37,7 +37,7 @@ At the end of this workshop, you will be able to:
 3. Brainstorm and refine zine concepts, identifying a topic, target audience, and potential content.
 5. Practice layout and design principles for zines, including considerations of format, colour, font, and imagery.
 6. Follow best practices for sourcing content for their zines, including using open-licensed content and properly crediting collaborators.
-7. Create a sample Zine with at least 8 pages.
+7. Create a sample Zine with at least 8 pages to either summarize the highlights of a research paper or on a topic of your choice.
 8. Explore different strategies for printing, distributing, and promoting zines, including both online and offline options.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
