@@ -32,7 +32,12 @@ The history of the zine can be traced back to the fanzines created by science fi
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Define what a zine is, including its key characteristics and history as a form of self-publishing popular among DIY and marginalized communities.
+2. Identify and discuss different methods of zine construction, including digital and analog approaches, and consider the creative possibilities and limitations associated with each.
+3. Articulate the benefits of creating zines, such as fostering self-expression, building community, and disseminating alternative ideas.
+4. Brainstorm and refine zine concepts, identifying a topic, target audience, and potential content.
+5. Practice layout and design principles for zines, including considerations of format, colour, font, and imagery.
+6. Follow best practices for sourcing content for their zines, including using open-licensed content and properly crediting collaborators.
+7. Explore different strategies for printing, distributing, and promoting zines, including both online and offline options.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
