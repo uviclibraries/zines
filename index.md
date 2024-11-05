@@ -8,7 +8,7 @@ nav_order: 1
 
 # Zines 101
 
-- Pre-workshop activities: 10 min 
+- Pre-workshop activities: 20 min 
 - Introductory presentation: 15 min
 - Hands-on activities: 65 min
 
