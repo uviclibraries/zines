@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 1 - Find a Template on Canva
-nav_order: 2
+title: 2 - Create a One-Page Fold and Cut Mini-Zine on Canva
+nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Find a Template on Canva
+# Create a One-Page Fold and Cut Mini-Zine on Canva
 
-In this exercise, you will create an Academic Poster using Canva. If you have any questions or get stuck, please ask your instructor for assistance. 
+In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva. This type of zine uses a single sheet of paper with all of the design on one side. If you have any questions or get stuck, please ask your instructor for assistance. 
 
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
