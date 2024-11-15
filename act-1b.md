@@ -10,11 +10,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva. This type of zine uses a single sheet of paper with all of the design on one side. If you have any questions or get stuck, please ask your instructor for assistance. 
 
-1.  Create or log into your Canva account at 
-[canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
-2.  Click on the Create a design button on the top left of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
+1.  Create or log into your Canva account at [canva.com](https://ww.canva.com/){:target="_blank"}  <img src="images/01.png" alt="new slide" style="float:right;margin-left:10px;">
+2.  Click on the Create a design button on the top left of the screen.  
     - Toward the bottom left of the window that comes up, there is an option for “Custom size”. Click on this to bring up sizing options. 
-    - This will bring up the Custom Size options. Click on the little drop down for units (default is “px” for pixels) and change it to “in” for inches.  <img src="images/03.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
+    - This will bring up the Custom Size options. Click on the little drop down for units (default is “px” for pixels) and change it to “in” for inches. 
     - Type in your chosen size to match the paper size you want to use (letter: 11x8.5, legal: 14x8.5, tabloid: 17x11) and then click Create new design. This will open a new tab with a blank canvas to start working in.
 
 3. Upload a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
