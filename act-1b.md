@@ -24,7 +24,8 @@ In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva.
            d. [16 Page Letter](images/16pageSingleLetterTemplate.png){:target="_blank"}
            e. [16 Page Legal](images/16pageSingleLegalTemplate.png){:target="_blank"}
            f. [16 Page Tabloid](images/16pageSingleTabloidTemplate.png){:target="_blank"}
-   -  Click on the Uploads icon in the far left sidebar menu and then click on "Upload files" to choose the the layout guide you saved on your computer. Once you find and select it, click on Open.
+   -  If your browser doesn't automatically download the image, you may need to right-click on it with your mouse and choose "save image as" or "download" to save the layout guide to your computer.
+   -  Back in Canva, click on the Uploads icon in the far left sidebar menu and then click on "Upload files" to choose the the layout guide you saved on your computer. Once you find and select it, click on Open.
    -  Once it is uploaded, click on it to add it to your design. Resize if necessary.
  
          <button onclick="toggle('gif5')">Show / Hide Animation </button>
