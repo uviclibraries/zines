@@ -24,7 +24,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
-    <img src="images/gifs/canva-photo-1.gif">
+    <img src="images/canva-photo-1.gif">
     </div> 
 
 5. Change this photo frame from a circle to another shape.<img src="images/canva-photo-05.png" style="float:right;width:220px;" alt="frames">
@@ -39,7 +39,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-    <img src="images/gifs/canva-photo-2.gif">
+    <img src="images/canva-photo-2.gif">
     </div>
 
 8. Next, we will swap the heart for a grid. 
@@ -60,7 +60,7 @@ Here are some additional things you can do in Canva templates. If you have any q
 <br>
   <button onclick="toggle('gif3')">Show/Hide Animation</button>
   <div id="gif3">
-  <img src="images/gifs/canva-photo-3.gif">
+  <img src="images/canva-photo-3.gif">
   </div> 
 
   <script>  
