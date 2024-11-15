@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 1 - Find Pre-Designed Zine Template on Canva
+title: 1 - Find a Pre-Designed Zine Template on Canva
 nav_order: 2
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Find a Zine Template on Canva
+# Find a Pre-Designed Zine Template on Canva
 
 In this exercise, you will create a zine using Canva. If you have any questions or get stuck, please ask your instructor for assistance. 
 
