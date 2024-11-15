@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Photo Frames & More
+title: 4-Photo Frames & More
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
