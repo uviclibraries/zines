@@ -19,14 +19,12 @@ In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva.
 
 3. Upload a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
    -  We have created some layout guides to use as backgrounds when designing your zine, so that you know where the folds will be and what direction your graphics will need to face in order to be upright when printed and folded. Choose the correct size and style you want for your zine:
-   
            a. [8 Page Letter](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/8pageSingleTemplate.png){:target="_blank"}{:target="_blank"}
            b. [8 Page Legal](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/8pageSingleLegalTemplate.png){:target="_blank"}
            c. [8 Page Tabloid](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/8pageSingleTabloidTemplate.png){:target="_blank"}
            d. [16 Page Letter](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/16pageSingleLetterTemplate.png){:target="_blank"}
            e. [16 Page Legal](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/16pageSingleLegalTemplate.png){:target="_blank"}
            f. [16 Page Tabloid](https://github.com/uviclibraries/zines/blob/7a0759fefa86100d84d51f66b2a7eef689f0b432/images/16pageSingleTabloidTemplate.png){:target="_blank"}
-
    -  Click on the Uploads icon in the far left sidebar menu and then click on "Upload files" to choose the the layout guide you saved on your computer. Once you find and select it, click on Open.
    -  Once it is uploaded, click on it to add it to your design. Resize if necessary.
  
