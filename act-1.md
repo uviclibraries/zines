@@ -91,5 +91,5 @@ In this exercise, you will create a zine using Canva. If you have any questions 
     }
 </script>
 
-
-[NEXT STEP: Customize Your Poster Activity](act-2.html){: .btn .btn-blue }
+[OPTIONAL: Create a One-Page Fold and Cute Mini-Zine Activity](act-1b.html){: .btn .btn-blue }
+[NEXT STEP: Customize Your Poster Activity](act-3.html){: .btn .btn-blue }
