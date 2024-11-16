@@ -82,4 +82,4 @@ b.  Color Palettes:<img src="images/09.png" alt="new slide menu" style="float:ri
 </script>
 
 
-[NEXT STEP: Customize Your Poster Activity](act-2.html){: .btn .btn-blue }
+[NEXT STEP: Photo Frames and more Activity](canva-photo-frames.html){: .btn .btn-blue }
