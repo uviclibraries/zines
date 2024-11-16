@@ -14,9 +14,9 @@ nav_order: 1
 
 ## What is a Zine & Why Make One? 
 
-Zines are self-published works with a limited print run, typically created to share thoughts, feelings, creativity, experiences, and knowledge rather than for monetary profit. Zines are part of a DIY culture that often includes people from marginalized communities or those who lack access to mainstream publishing options.
+Zines are self-published works typically created to share thoughts, feelings, creativity, experiences, and knowledge. Zines are part of a DIY culture that often includes people from marginalized communities or those who lack access to mainstream publishing options.
 
-While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages. The content of a zine is limited only by the creator's imagination. While historically all zines were handmade, nowadays zine creators can choose to use digital tools such as graphic design software or layout software, or continue with tradition and make their zines with physical media and tools.
+While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages. The content of a zine is limited only by the creator's imagination. There are options to create zines using analogue or digital tools, though the the traditional DIY maker styles have remained a core part of the zine style identity. 
 
 Some examples of what can be included in a zine include but are not limited to:
 - Sketches, drawings, and mini-comics
@@ -26,7 +26,7 @@ Some examples of what can be included in a zine include but are not limited to:
 
 ## A Short History of Zines
 
-The history of the zine can be traced back to the fanzines created by science fiction enthusiasts in the early twentieth century. These fanzines served as a forum for dialogue free from corporate editors or publishers. The same DIY ethos drew punks in the late twentieth century to embrace fanzines as a complement to their music and a means to challenge mainstream ideologies. In the 1980s and 1990s, zines became central to movements like Queercore and Riot Grrrl, which used zines to subvert dominant and patriarchal ideologies by sharing lived experiences. Despite corporate appropriation, zine-making remains a cornerstone for marginalized voices to disseminate information and publish creative work.
+The history of the zine can be traced back to the publications such as the "little magazines" of the Harlem Renaissance around 1920, or arguably back far into history when short run pamphlets were published. The term "fanzines" points back to the 1930's with science fiction fans creating their own publications. These fanzines served as a forum for dialogue free from corporate editors or publishers. The same DIY ethos drew punks in the late twentieth century to embrace zines as a complement to their music and a means to challenge mainstream ideologies. In the 1980s and 1990s, zines became central to movements like Queercore and Riot Grrrl, which used zines to subvert dominant and patriarchal ideologies by sharing lived experiences. Despite corporate appropriation, zine-making remains a cornerstone for marginalized voices to disseminate information and publish creative work.
 
 ## Learning objectives
 
