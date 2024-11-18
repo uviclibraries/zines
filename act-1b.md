@@ -34,5 +34,8 @@ In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva.
       </div>
 4. Customize your zine by adding images and text. See the next activities for some instructions. Remove the layout guide if it's visible once you're finished making your design. <img src="images/layout.png" alt="new slide" style="float:right;margin-left:10px;">
 
+5. To fold your zine once you are finished, see these video tutorials (depending on the style you chose):
+   -  [8 page](https://youtube.com/shorts/2LDyKQLEMtw?feature=shared){:target="_blank"}
+   -  [16 page](https://youtu.be/bkUxrDfgv8U?feature=shared)){:target="_blank"}
 
 [NEXT STEP: Customize Your Poster Activity](act-3.html){: .btn .btn-blue }
