@@ -10,9 +10,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 In this exercise, you will add to or change elements in your Canva design. If you have any questions or get stuck, please ask your instructor for assistance. 
 
-1.  ****Customize a pre-designed template using Styles:** <img src="images/06.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+1.  ****Customize a pre-designed template using Styles:** 
     -   Click on the arrow at the top of the left sidebar next to the template title to get back into the templates menu or click on the Design icon at the top of the left sidebar menu. 
-    -   Click on the Styles tab. Make sure the Search field is empty. In this new sidebar menu there are various helpful tools for designing your zine. <img src="images/07.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
+    -   Click on the Styles tab. Make sure the Search field is empty. In this new sidebar menu there are various helpful tools for designing your zine. 
     
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
@@ -23,8 +23,8 @@ a.  Font Sets:
     -   Clicking on “see all in “Font Sets” will bring up various font combinations Canva suggests together,  with 1-3 fonts (sometimes one font will have different variations within the same font, e.g., light and bold). <img src="images/08.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
     -   You can click on them to apply them to your design and the largest font will be set to your titles or heading, the medium font to your sub-headings, and the smallest to your body text. You can click through various sets to see how this changes the feel of your poster.
   
-b.  Color Palettes:<img src="images/09.png" alt="new slide menu" style="float:right;width:200px;margin-left:10px;">
-    -   Going into “see all” in Color Palettes will bring up various color combinations. Clicking on one will apply it to your template. Clicking on the same one again will use the same colours but apply them to different areas of the template, which will change the whole feel of the template even with the same few colours. <img src="images/26.png" alt="new slide menu" style="float:right;width:240px;margin-left:10px;">
+b.  Color Palettes:
+    -   Going into “see all” in Color Palettes will bring up various color combinations. Clicking on one will apply it to your template. Clicking on the same one again will use the same colours but apply them to different areas of the template, which will change the whole feel of the template even with the same few colours. 
 
       <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
