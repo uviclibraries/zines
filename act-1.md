@@ -12,7 +12,7 @@ In this exercise, you will create a zine using Canva. If you have any questions 
 
 1.  Create a Canva account at 
 [canva.com](https://ww.canva.com/){:target="_blank"} 
-2.  Click on the Create a design button on the top right of the screen.  <img src="images/02.png" alt="new slide" style="float:right;margin-left:10px;">
+2.  Click on the Create a design button on the top right of the screen. 
     - In the search field, type the word "zine" and click on one of the size options (likely all the same). 
     - This will bring up a blank page with a list of zine templates on the left side.
 3. Choose a template: <img src="images/04.png" alt="new slide" style="float:right;width:200px;margin-left:10px;">
