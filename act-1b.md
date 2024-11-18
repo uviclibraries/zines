@@ -36,6 +36,6 @@ In this exercise, you will create a One-Page Fold and Cut Mini-Zine using Canva.
 
 5. To fold your zine once you are finished, see these video tutorials (depending on the style you chose):
    -  [8 page](https://youtube.com/shorts/2LDyKQLEMtw?feature=shared){:target="_blank"}
-   -  [16 page](https://youtu.be/bkUxrDfgv8U?feature=shared)){:target="_blank"}
+   -  [16 page](https://youtu.be/bkUxrDfgv8U?feature=shared){:target="_blank"}
 
 [NEXT STEP: Customize Your Poster Activity](act-3.html){: .btn .btn-blue }
