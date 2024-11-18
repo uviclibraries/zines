@@ -7,24 +7,23 @@ nav_order: 10
 
 ## Zine Workshop Resources
 
-- [Barnard College](https://imats.barnard.edu/news/zine-design-three-ways-slides-videos-templates){:target="_blank"}
 - [Timeline of Zine History by the Library of Virginia](https://lva-virginia.libguides.com/c.php?g=1332410&p=9812968){:target="_blank"}
-- [Zines and Libraries](https://www.zinelibraries.info/)
-- [ZineWiki](https://zinewiki.com/)
-- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article](https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304)
-- [Broken Pencil zine reviews](https://brokenpencil.com/)
+- [Zines and Libraries](https://www.zinelibraries.info/){:target="_blank"}
+- [ZineWiki](https://zinewiki.com/){:target="_blank"}
+- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article](https://search.library.uvic.ca/{:target="_blank"}permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304){:target="_blank"}
+- [Broken Pencil zine reviews](https://brokenpencil.com/){:target="_blank"}
 
 
 ## Zines Online
 
-- [Decolonizing P@renting: a zine by & for queer parents of color](https://issuu.com/queerindigenousgirl/docs/decolonizing_parenting)
-- [Quiver Distro](http://www.anti-politics.org/distro/)
+- [Decolonizing P@renting: a zine by & for queer parents of color](https://issuu.com/queerindigenousgirl/docs/decolonizing_parenting){:target="_blank"}
+- [Quiver Distro](http://www.anti-politics.org/distro/){:target="_blank"}
 - [Fire! Zine](https://issuu.com/poczineproject/docs/poczp_fire_1926_readview){:target="_blank"}
-- [DC Punk Archive Zine Library](https://digdc.dclibrary.org/islandora/object/dcplislandora%3A38043)
-- [Library of Congress Zine Web Archive](https://digdc.dclibrary.org/islandora/object/dcplislandora%3A38043)
-- [Internet Archive Zine Collection](https://archive.org/details/zines)
-- [POC Zine Project](https://poczineproject.tumblr.com/)
-- [Queer Zine Archive Project](https://archive.qzap.org/)
+- [DC Punk Archive Zine Library](https://digdc.dclibrary.org/islandora/object/dcplislandora%3A38043){:target="_blank"}
+- [Library of Congress Zine Web Archive](https://digdc.dclibrary.org/islandora/object/dcplislandora%3A38043){:target="_blank"}
+- [Internet Archive Zine Collection](https://archive.org/details/zines){:target="_blank"}
+- [POC Zine Project](https://poczineproject.tumblr.com/){:target="_blank"}
+- [Queer Zine Archive Project](https://archive.qzap.org/){:target="_blank"}
 
 ## Related Library Books
 
