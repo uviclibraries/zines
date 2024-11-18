@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 # Photo Frames & More with Canva
-<img src="images//canva-photo-01.png" style="float:right;margin-left:10px; width:260px;" alt="create a design button, select poster."> 
+ 
 Here are some additional things you can do in Canva templates. If you have any questions, please ask! 
 
 1. From the Canva.com home page, click on the **Create A Design** button, and then click on **Poster**. This will open up a blank poster with options for templates on the side. 
