@@ -6,7 +6,7 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/zine-example.png" style="float:right;width:300px;border:2px solid;" hspace="10" alt="Example Zine cover">
 
-# Zines 101
+# Zine Making
 
 - Pre-workshop activities: 20 min 
 - Introductory presentation: 15 min
@@ -18,11 +18,15 @@ Zines are self-published works typically created to share thoughts, feelings, cr
 
 While there is no official definition of a zine, most people agree that they are self-published works with a limited print run, ranging from a few to around 5,000 copies. Zines are typically made up of a variety of images, texts, and messages. The content of a zine is limited only by the creator's imagination. There are options to create zines using analogue or digital tools, though the the traditional DIY maker styles have remained a core part of the zine style identity. 
 
-Some examples of what can be included in a zine include but are not limited to:
+Some examples of what can be in a zine include but are not limited to:
 - Sketches, drawings, and mini-comics
 - Recipes with photos and/or illustrations
 - Words mixed with images and textures
 - Poetry
+
+## This Workshop:
+
+The activities offer instructions for creating zines either digitally using Canva or analogue  
 
 ## A Short History of Zines
 
