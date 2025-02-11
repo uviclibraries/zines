@@ -83,3 +83,4 @@ b.  Color Palettes:
 
 
 [NEXT STEP: Photo Frames and more Activity](canva-photo-frames.html){: .btn .btn-blue }
+[OPTIONAL: Create a One-Page Fold and Cute Mini-Zine Activity](act-1b.html){: .btn .btn-blue }
