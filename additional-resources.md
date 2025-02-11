@@ -10,7 +10,7 @@ nav_order: 10
 - [Timeline of Zine History by the Library of Virginia](https://lva-virginia.libguides.com/c.php?g=1332410&p=9812968){:target="_blank"}
 - [Zines and Libraries](https://www.zinelibraries.info/){:target="_blank"}
 - [ZineWiki](https://zinewiki.com/){:target="_blank"}
-- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article](https://search.library.uvic.ca/{:target="_blank"}permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304){:target="_blank"}
+- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article]((https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304)){:target="_blank"}
 - [Broken Pencil zine reviews](https://brokenpencil.com/){:target="_blank"}
 
 
