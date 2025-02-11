@@ -68,5 +68,6 @@ Here are some additional things you can do in Canva templates. If you have any q
     }
 </script>
 
+[OPTIONAL: Create a One-Page Fold and Cute Mini-Zine Activity](act-1b.html){: .btn .btn-blue }
 [NEXT STEP: Earn a Digital Badge](informal-credentials.html){: .btn .btn-blue } or<br>
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
