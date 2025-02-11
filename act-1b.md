@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2 - Create a One-Page Fold and Cut Mini-Zine on Canva
-nav_order: 3
+title: 3 - Create a One-Page Fold and Cut Mini-Zine on Canva
+nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
