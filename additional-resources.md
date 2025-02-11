@@ -10,7 +10,6 @@ nav_order: 10
 - [Timeline of Zine History by the Library of Virginia](https://lva-virginia.libguides.com/c.php?g=1332410&p=9812968){:target="_blank"}
 - [Zines and Libraries](https://www.zinelibraries.info/){:target="_blank"}
 - [ZineWiki](https://zinewiki.com/){:target="_blank"}
-- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article]((https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304)){:target="_blank"}
 - [Broken Pencil zine reviews](https://brokenpencil.com/){:target="_blank"}
 
 
@@ -25,13 +24,13 @@ nav_order: 10
 - [POC Zine Project](https://poczineproject.tumblr.com/){:target="_blank"}
 - [Queer Zine Archive Project](https://archive.qzap.org/){:target="_blank"}
 
-## Related Library Books
+## Related Library Books & Articles
 
 - [Whatcha mean, what's a zine?: the art of making zines and minicomics](https://search.library.uvic.ca/permalink/01VIC_INST/qemhdp/alma9946471703807291){:target="_blank"}
 - [Copy machine manifestos: artists who make zines](https://search.library.uvic.ca/permalink/01VIC_INST/qemhdp/alma9957825932307291){:target="_blank"}
 - [Ripped, torn and cut: pop, politics and punk fanzines from 1976](https://search.library.uvic.ca/permalink/01VIC_INST/qemhdp/alma9943201093807291){:target="_blank"}
 - [A Girl's guide to taking over the world: writings from the girl zine revolution](https://search.library.uvic.ca/permalink/01VIC_INST/qemhdp/alma997152813807291){:target="_blank"}
-
+- [Why Diverse Zines Matter: A Case Study of The People of Color Zines Project -article](https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_proquest_journals_1925766304){:target="_blank"}
     
 ## Acknowledgements
 
