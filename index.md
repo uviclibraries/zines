@@ -26,7 +26,7 @@ Some examples of what can be in a zine include but are not limited to:
 
 ## This Workshop:
 
-The activities offer instructions for creating zines either digitally using Canva or analogue  
+The activities offer instructions for creating zines either digitally using Canva, or the old school analogue method using paper and collected materials.  
 
 ## A Short History of Zines
 
