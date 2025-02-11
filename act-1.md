@@ -23,5 +23,6 @@ In this exercise, you will create a zine using Canva. If you have any questions 
 4.  Customize the template:
     - Head over to the activity linked below to add elements to your zine. 
 
-[OPTIONAL: Create a One-Page Fold and Cute Mini-Zine Activity](act-1b.html){: .btn .btn-blue }
 [NEXT STEP: Customize Your Zine Activity](act-3.html){: .btn .btn-blue }
+[OPTIONAL: Create a One-Page Fold and Cute Mini-Zine Activity](act-1b.html){: .btn .btn-blue }
+
