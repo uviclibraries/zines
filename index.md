@@ -3,8 +3,8 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/zine-example.png" style="float:right;width:300px;border:2px solid;" hspace="10" alt="Example Zine cover">
+
+<img src="images/zinecoversquare.JPG" style="float:right;width:300px;border:2px solid;" hspace="10" alt="pile of four example printed zines">
 
 # Zine Making
 
