@@ -12,7 +12,6 @@ nav_order: 10
 - [ZineWiki](https://zinewiki.com/){:target="_blank"}
 - [Broken Pencil zine reviews](https://brokenpencil.com/){:target="_blank"}
 
-
 ## Zines Online
 
 - [Decolonizing P@renting: a zine by & for queer parents of color](https://issuu.com/queerindigenousgirl/docs/decolonizing_parenting){:target="_blank"}
@@ -24,6 +23,16 @@ nav_order: 10
 - [POC Zine Project](https://poczineproject.tumblr.com/){:target="_blank"}
 - [Queer Zine Archive Project](https://archive.qzap.org/){:target="_blank"}
 
+## Photos, clip art, and other media
+   -   [Pexels](https://www.pexels.com){:target="_blank"} (photos and video clips)
+   -   [Unsplash for Education collections](https://unsplash.com/@unsplashforeducation/collections){:target="_blank"} (photos, scientific images, art scans, etc)
+   -   [Wikimedia Commons: Free media resources](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} 
+   -   [VectorStock](https://vectorstock.com/free-vectors){:target="_blank"} (clip art)
+   -   [The Noun Project](https://thenounproject.com){:target="_blank"} (icons)
+   -   [Creative Commons image search](https://search.creativecommons.org/){:target="_blank"} (images)
+   -   [Creative Commons video search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+   -   [Create Biology figures](http://BioRender.com){:target="_blank"} (AI image generator - 3 images only for free version)
+     
 ## Related Library Books & Articles
 
 - [Whatcha mean, what's a zine?: the art of making zines and minicomics](https://search.library.uvic.ca/permalink/01VIC_INST/qemhdp/alma9946471703807291){:target="_blank"}
