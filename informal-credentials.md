@@ -5,7 +5,7 @@ nav_order: 9
 ---
 <img src="images/zines.png" style="float:right;width:180px;"> 
 
-# COMING SOON: Informal Credentials or Digital Badges
+## Informal Credentials or Digital Badges
 
 The Digital Scholarship Commons (DSC) awards digital badges, or informal credentialing, for the successful completion of this workshop. We award badges as an informal credential in order to help workshop participants, who wish to make public the fact that they have developed their skills.
 
