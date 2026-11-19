@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-# Activities Introduction
+# Self-Directed Introduction
 
 - Please review the following [Introductory Slides](https://docs.google.com/presentation/d/14djTmPu-2E3yWMq5xSMQSN9nmyw_Hii9wQuc3chLnsc/edit?usp=sharing){:target="_blank"}
 
