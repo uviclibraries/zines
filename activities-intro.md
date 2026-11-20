@@ -4,7 +4,7 @@ title: Self-Directed Introduction
 nav_order: 1
 parent: Workshop Activities
 ---
-# Self-Directed Introduction
+# Introduction for Self-Directed Learners
 
 - Please review the following [Introductory Slides](https://docs.google.com/presentation/d/14djTmPu-2E3yWMq5xSMQSN9nmyw_Hii9wQuc3chLnsc/edit?usp=sharing){:target="_blank"}
 
